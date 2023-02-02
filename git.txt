@@ -1,0 +1,18 @@
+- inicializar
+git init
+
+-limpar terminal
+clear
+
+- configurar nome e email
+git config --global user.name "gustavo"
+git config --global user.email "guarantes.sp@gmail.com"
+
+-verificar a configuração
+git config --list
+
+--sair da lista de configuração
+tecla q
+
+--adicionar todos os arquivos alterados
+git add .
